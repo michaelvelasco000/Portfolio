@@ -172,7 +172,7 @@ function BodyPage(){
                                     <li>PHP(Laravel)</li>
                                     <li>Bootstrap</li>
                                     <li>React(Vite)</li>
-                                    <li>Stripr Payment Gateway</li>
+                                    <li>Stripe Payment Gateway</li>
                                     <li>Mysql</li>
                                 </ul>
                             </div>    
